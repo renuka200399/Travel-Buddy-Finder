@@ -1,0 +1,2 @@
+Travel Buddy Finder is a web-based platform designed to connect travelers with like-minded companions based on destination, interests, and travel dates. The goal is to make solo or group travel more enjoyable, safe, and interactive by helping users find compatible travel buddies. With features like profile creation, interest-based matching, and secure chat, the platform aims to build a community of explorers who can share experiences and adventures together.
+
